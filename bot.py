@@ -1,9 +1,8 @@
 import discord, requests, datetime
-from pyautogui import run
 from discord.ext import commands
 from bs4 import BeautifulSoup
 
-token = 'ODM2NzQ5MDQ1MjUwMzkyMDc0.YIihRg.BPsEIFescLtXiQUk4SeToV_Ygxk'
+token = 'ODM2NzQ5MDQ1MjUwMzkyMDc0.YIihRg.nZlCHCWCgm4Yq0oEeGSaPmzN9j0'
 
 app = commands.Bot(command_prefix="!")
 
