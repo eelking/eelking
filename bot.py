@@ -2,7 +2,7 @@ import discord, requests, datetime
 from discord.ext import commands
 from bs4 import BeautifulSoup
 
-token = 'ODM2NzQ5MDQ1MjUwMzkyMDc0.YIihRg.nZlCHCWCgm4Yq0oEeGSaPmzN9j0'
+token = 'ODM2NzQ5MDQ1MjUwMzkyMDc0.YIihRg.U5S2tDPiDYgSXIK8-1RrcTfpTgs'
 
 app = commands.Bot(command_prefix="!")
 
